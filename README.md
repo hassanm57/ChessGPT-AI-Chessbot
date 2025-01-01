@@ -13,7 +13,8 @@
 
 ChessGPT is a project aimed at integrating artificial intelligence techniques into the classic game of chess. The objective was to create a chess engine capable of playing competitively against humans while offering features that make it accessible to players of varying skill levels. The project involves implementing traditional AI algorithms, such as the MinMax algorithm variant, NegaMax with Alpha-Beta pruning, and Position Evaluation Using Heuristics, to make strategic decisions.
 
-![ChessGPT in action](![image](https://github.com/user-attachments/assets/b6828882-a98a-4eb4-a603-31d3b563cb53)
+![ChessGPT in action](![image](https://github.com/user-attachments/assets/d5657c65-5271-4724-8ea5-72ede940090e)
+)
 )
 
 ---
