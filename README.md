@@ -91,13 +91,22 @@ We achieved the primary objective of creating a functional AI chess engine. The 
 - **Improvements To Add:**  
   We can integrate machine learning-based evaluation functions, using neural networks and dynamic difficulty to improve the performance of the chessbot.
 
----
+## 🚀 Getting Started
 
-## ✅ Conclusion
+Follow these steps to set up ChessGPT on your local machine:
 
-ChessGPT successfully uses AI techniques with a user-friendly design to deliver a competitive and enjoyable chess-playing experience. While the project achieved its main objective, there is significant potential to improve it. We can focus on adding advanced machine learning techniques like neural networks to improve the Chessbot’s decision-making time and quality, and add features to enhance user engagement. ChessGPT serves as a baseline for exploring AI’s capabilities in gaming, providing both education and recreation to users.
+### 1️⃣ Clone the Repository
+First, clone the ChessGPT repository to your local machine:
+```bash
+git clone https://github.com/hassanm57/ChessGPT-AI-Chessbot
+cd ChessGPT
+```
+# Install dependencies
+```bash
+pip install -r requirements.txt
+```
+# Run the game
+```bash
+python ChessUI.py
 
----
-
-## 📂 Project Structure
 
