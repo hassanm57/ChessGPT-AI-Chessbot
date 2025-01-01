@@ -15,6 +15,8 @@ ChessGPT is a project aimed at integrating artificial intelligence techniques in
 
 ![image](https://github.com/user-attachments/assets/ed71eabe-a0cc-4407-b574-f671290c21f5)
 
+This project was heavily inspired by Mr. Eddie Sharick (https://www.youtube.com/@eddiesharick6649) 
+
 
 ---
 
