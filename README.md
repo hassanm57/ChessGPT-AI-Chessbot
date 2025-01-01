@@ -107,6 +107,6 @@ pip install -r requirements.txt
 ```
 # Run the game
 ```bash
-python ChessUI.py
+python chess_ui.py
 
 
